@@ -7,5 +7,5 @@
 
 ##### #使用Java、JPanel
 
-### web GIF
+### 實際遊戲畫面
 ![webgif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDY1M2RhYzgyNTZlZmU2ZGFjZWIzODQ5Y2MzMjIwNzlmNTNkMjlhNyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/WGkl3gva0muBMnyqrc/giphy.gif)

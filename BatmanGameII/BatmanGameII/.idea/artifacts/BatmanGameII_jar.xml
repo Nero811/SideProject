@@ -1,0 +1,22 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BatmanGameII:jar">
+    <output-path>$PROJECT_DIR$/../..</output-path>
+    <root id="archive" name="BatmanGameII.jar">
+      <element id="module-output" name="BatmanGameII" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/image/badguy.png" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/image/batman.png" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/image/catwoman.png" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/image/door.png" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/image/finalstage.jpg" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/image/freeze.png" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/image/gangster.png" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/image/gate.png" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/image/gotham.png" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/image/ice.png" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/image/iceview.png" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/image/joker.png" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/image/key.png" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/image/policecar.png" />
+    </root>
+  </artifact>
+</component>

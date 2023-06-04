@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BatmanGameII:jar2">
+    <output-path>$PROJECT_DIR$/../Jar</output-path>
+    <root id="archive" name="BatmanGameII.jar">
+      <element id="module-output" name="BatmanGameII" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src/image" />
+    </root>
+  </artifact>
+</component>

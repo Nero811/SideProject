@@ -1,11 +1,11 @@
-# Snake Game ³g­¹³D¹CÀ¸
+# Snake Game è²ªé£Ÿè›‡éŠæˆ²
 
-### ¹CÀ¸»¡©ú:
-¹CÀ¸¤@¦@¦³3ºØÃø«×EASY¡BNORMAL¡BHARD¥i¥H¿ï¾Ü¡A  
-¨Ï¥ÎÁä½LW¡BA¡BS¡BD ©Î ¤W¡B¤U¡B¥ª¡B¥k ¶i¦æ¾Þ§@¡C  
-¨C­¹±o¤@­ÓªG¹ê¥i¥HÀò±o10¤À¡C
+### éŠæˆ²èªªæ˜Ž:
+éŠæˆ²ä¸€å…±æœ‰3ç¨®é›£åº¦EASYã€NORMALã€HARDå¯ä»¥é¸æ“‡ï¼Œ  
+ä½¿ç”¨éµç›¤Wã€Aã€Sã€D æˆ– ä¸Šã€ä¸‹ã€å·¦ã€å³ é€²è¡Œæ“ä½œã€‚  
+æ¯é£Ÿå¾—ä¸€å€‹æžœå¯¦å¯ä»¥ç²å¾—10åˆ†ã€‚
 
-##### ¨Ï¥ÎJava¡BJPanel
+##### #ä½¿ç”¨Javaã€JPanel
 
-### web GIF
-![webgif](https://giphy.com/gifs/WGkl3gva0muBMnyqrc)
+### å¯¦éš›éŠæˆ²ç•«é¢
+![webgif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDY1M2RhYzgyNTZlZmU2ZGFjZWIzODQ5Y2MzMjIwNzlmNTNkMjlhNyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/WGkl3gva0muBMnyqrc/giphy.gif)

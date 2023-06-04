@@ -1,7 +1,7 @@
 # BatmanGameII 蝙蝠俠迷宮遊戲II
 
 ### 遊戲背景:
-蝙蝠俠-世界上最偉大的偵探，自從脫逃了JOKER(小丑)所設下的陷阱後，   
+蝙蝠俠-世界上最偉大的偵探，[自從脫逃了JOKER(小丑)所設下的陷阱後](https://github.com/Nero811/SideProject/tree/main/BatmanGame)，   
 不甘心的小丑這次抓走了蝙蝠俠的愛人CatWoman(貓女)，並聯合了Mr.Freeze(極凍人)還有其他  
 眾多的惡棍一起對付蝙蝠俠，快幫助蝙蝠俠救出貓女吧!!  
 

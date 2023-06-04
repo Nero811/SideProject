@@ -21,7 +21,6 @@
 
 ### 實際遊戲畫面
 ![webgif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWRhMzJlYjI1NTcwYjQ3MjZkMTA0MjEzNGY2ODUwMzNjYmRkMmFjZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/0TVlVb7NwymZ5pqZwt/giphy.gif)
-
 ![webgif]
 (https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDgxMmMzNWQzYjI3NDZmMjAyNmNmMjI5YTBkY2I2ZTA2MTAxMGNlNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/2WbYrGiE1jaQLvMQE9/giphy.gif
 )

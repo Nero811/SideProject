@@ -20,4 +20,4 @@
 ##### 使用Java特性Encasulation、Inheritance、Polymorphism
 
 ### 實際遊戲畫面
-![webgif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjA0MzNjMWVmOTk3OTJhMTBjZWI2NzgwMzZlZDQxYmNmZjdmMGEyOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/4tOskTFIaxPxH7F4rl/giphy.gif)
+![webgif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWRhMzJlYjI1NTcwYjQ3MjZkMTA0MjEzNGY2ODUwMzNjYmRkMmFjZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/0TVlVb7NwymZ5pqZwt/giphy.gif)
